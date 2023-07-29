@@ -1,0 +1,23 @@
+{
+  "name": "font-done",
+  "version": "1.0.0",
+  "description": "keep track of the widgets have implemented",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anan824/font-done.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anan824/font-done/issues"
+  },
+  "homepage": "https://github.com/anan824/font-done#readme",
+  "dependencies": {
+    "egg": "^3.17.3",
+    "express": "^4.18.2"
+  }
+}
