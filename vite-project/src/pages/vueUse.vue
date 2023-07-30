@@ -1,5 +1,5 @@
 <template>
-    <h1>测试 vueUse 的鼠标坐标dff</h1>
+    <h1>测试 vueUse 的鼠标坐标</h1>
     <h3>Mouse: {{ x }} x {{ y }}</h3>
 </template>
   
